@@ -10,6 +10,15 @@ To do so, make sure the device is using the same Apple ID as you made the origin
 - If you have family sharing enabled, tap on the person who bought the app originally.
 - When you've located AnkiMobile, tap on the cloud icon to download it.
 
+On more recent versions of iOS, the steps are:
+
+- Open the App Store on the device you want to install AnkiMobile on.
+- Tap on your profile icon in the top right
+- Tap on Apps
+- Tap on My Apps
+- Tap on Not on this iPhone (optional, but helpful)
+- When you’ve located AnkiMobile, tap on the cloud icon to download it.
+
 <h2>Account troubles</h2>
 
 Apple do not provide us with any access to their systems, so we do not have the ability to help you recover an old account, or confirm a previous purchase you have made. If you have any trouble with the purchase or download process, please give Apple a call:
